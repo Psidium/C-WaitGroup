@@ -1,2 +1,7 @@
 # C-WaitGroup
-Go's WaitGroup in pure C.
+
+A pure C implementation of Go's [WaitGroup](https://golang.org/pkg/sync/#WaitGroup).
+
+# LICENSE
+
+The MIT License
